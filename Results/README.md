@@ -3,4 +3,4 @@
 ├───ARIMA 
 ├───Exponential Moving Average
 ├───Moving Average
-└───Regression
+└───Linear Regression
