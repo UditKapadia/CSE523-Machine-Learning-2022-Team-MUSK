@@ -1,0 +1,20 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "c:\\Users\\uditk\\Desktop\\Python Projects\\AVS Project\\dosst-project\\Scripts\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\uditk\\Desktop\\Python Projects\\ml-test\\Scripts\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\uditk\\Desktop\\Portfolio_Udit\\portfolio\\Scripts\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "~\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
